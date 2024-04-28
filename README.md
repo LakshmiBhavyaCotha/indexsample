@@ -1,0 +1,2 @@
+# indexsample
+setting up git
